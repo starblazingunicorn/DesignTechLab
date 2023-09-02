@@ -1,7 +1,7 @@
 ---
-title: The swedish public employment service
+title: Arbetsformedlingen
 publishDate: 2019-12-01 00:00:00
-img: /assets/AF/Web.png
+img: /assets/AF/AF.png
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
   Working as UX Engineer | Design technologist creating reusable design components, translating them into code, and ensuring consistency across digital products. It includes version control, collaboration tools, prototyping, automation, responsive design, and documentation. This technology streamlines design and development, promoting efficient teamwork and maintaining a unified user experience.

@@ -1,7 +1,7 @@
 ---
-title: UC
+title: Kreditkollen
 publishDate: 2019-10-02 00:00:00
-img: /assets/uc/logo-uc.png
+img: /assets/uc/uc.png
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
 description: |
   UC, Sweden's leading provider of digital business and consumer information services. Since 1977, UC have been collecting and transforming data into analyzed data models and insights that are used in interactions between people, businesses, and society at large.
@@ -17,7 +17,7 @@ UC services assist both companies and consumers in their daily decision-making p
 
  
 
-<img src="/assets/uc/uc.png" width="700" height="200">
+<!-- <img src="/assets/uc/uc.png" width="700" height="200"> -->
 
 ### Role and Responsibilities
 

@@ -1,7 +1,7 @@
 ---
-title: Gröna lund
+title: Gröana lund & kolmården
 publishDate: 2020-03-04 00:00:00
-img: /assets/parks/wireframes.png
+img: /assets/parks/Parks&resorts.png
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
   This UX case study is focused on elevating the ticket booking process for the Park Resorts Entertainment website. The §central objective is to design an instinctive and pleasurable user experience that streamlines the ticket purchasing journey. This initiative serves a dual purpose: catering to a diverse array of individuals exploring park entertainment choices while aiding the park in precisely estimating attendee numbers to uphold regulatory compliance.

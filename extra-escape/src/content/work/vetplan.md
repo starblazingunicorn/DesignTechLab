@@ -1,7 +1,7 @@
 ---
-title: VetPlan | VetFamily
+title: Vetplan
 publishDate: 2020-03-04 00:00:00
-img: /assets/vetplan/wireframes.png
+img: /assets/vetplan/Vetfamily.png
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
   This UX case study delves into the design enhancement of VetPlan, VetFamily's innovative preventive care plan. The objective is to craft an intuitive and user-centric experience that seamlessly guides pet owners through the process of understanding, enrolling, and managing their pet's health journey.
