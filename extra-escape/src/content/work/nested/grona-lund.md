@@ -54,4 +54,4 @@ The project's goal is to design an intuitive and pleasant user experience, strea
 
 <!-- <img src="/assets/parks/boking.png" width="200" height="300">
 <img src="/assets/parks/park.png" width="200" height="300"> 
-[Link to prototype ](https://www.figma.com/proto/38nMz92yYOzr3EYmDhTeED/checkout-process?type=design&node-id=329-4474&t=uqWyqE5MloixEpqG-1&scaling=min-zoom&page-id=1%3A12&mode=design)-->
+-->
